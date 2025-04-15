@@ -8,9 +8,9 @@
           <Linear>
             <Duration>00:00:10</Duration>
             <MediaFiles>
-              <MediaFile delivery="streaming" type="application/vnd.apple.mpegurl" width="1280" height="720">
-                https://vz-d8efc241-8d8.b-cdn.net/c155b69f-136c-4996-bb09-276cc9aa9483/playlist.m3u8
-              </MediaFile>
+              <MediaFile delivery="streaming" type="application/x-mpegURL" width="1280" height="720">
+               https://vz-d8efc241-8d8.b-cdn.net/c155b69f-136c-4996-bb09-276cc9aa9483/playlist.m3u8
+             </MediaFile>
             </MediaFiles>
           </Linear>
         </Creative>
